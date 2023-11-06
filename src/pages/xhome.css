@@ -1,0 +1,54 @@
+.produtos{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-left: 25px;
+  }
+
+  .carrinhos{
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  .nerf{
+    margin-right: 20px;
+  }
+
+  .boneca{
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  
+  .footer{
+    color: white;
+    align-items: center;
+    background-color: rgb(71, 67, 67);
+  }
+
+  .contato{
+    margin-right: 50px;
+    margin-left: 20px;
+    padding-bottom: 360px;
+  }
+
+  .nomecontato{
+    margin-left: 10px;
+  }
+
+  .preco{
+    font-family: sans-serif;
+    font-size: large;
+  }
+
+  p{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+.body{
+  background-color: #dc3545;
+  color: rgb(226, 226, 226);
+}
+
+
+
